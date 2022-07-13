@@ -1,4 +1,3 @@
-# Task-tracker
 
 
 /**
@@ -24,5 +23,6 @@
  * 
  *  auth
  *  task
- *  notification pusher 
+ *  notification
+ *  
  */
